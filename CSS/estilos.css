@@ -1,0 +1,294 @@
+* {
+   box-sizing: border-box;
+
+}
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+   text-decoration: none;
+   color: grey;
+
+}
+.conteiner { 
+	 max-width: 1200px;
+	  margin:auto; 
+	}
+
+  
+nav ul li{
+   display: inline;
+   margin: 0px 5px;
+}
+
+.menu{
+    float: right;
+    margin: 24px 15px 0px 0px;
+    padding: 0;
+}
+
+
+.banner {
+ width: 100%; 
+ height: auto;
+ position: relative;
+ top: -10px;
+}
+
+
+#conteiner {
+   max-width: 900px ;
+   margin: auto;
+}
+
+.Buscar {
+  width: 50%;
+  margin: auto;
+  position:relative;
+  padding: -60px;
+
+}
+
+.formulario {
+  display: inline-block;
+  width: 70%;
+  padding: 5px;
+  
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
+  color: grey;  
+}
+
+
+#boton {
+  width:29.2%;
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
+  color: white;
+  border:none;
+  background-color:#3CB3F9;
+  
+  margin: 0;
+  padding:7px;
+  position:relative;
+  right: 5px;
+}
+
+#serviciosenlinea {
+  display: inline-block;
+}
+
+.opciones {
+  position: relative;
+  display: inline-flex;
+  margin: auto;
+}
+
+	
+#movil {
+  position:absolute;
+}
+
+.Servicios {
+  position: relative;
+  display: inline-flex;
+  margin: auto;
+}
+  
+
+
+.listamovil {
+  max-width:1200px;
+  position:absolute;
+  display: inline-flex;
+  margin:auto;
+}
+
+.menu2 {
+  display: inline;
+  float: right;
+  margin: 10px 2px 30px 30px;
+}
+
+
+#tabla-precios {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    font-size: 12px;
+    color: #787878;
+    width: 100%;
+}
+
+
+
+
+
+body {
+font-family: Helvetica, sans-serif;
+font-size: 50%;
+font-weight: normal;
+line-height: 140%;
+}
+
+#pricing{
+  clear: both;
+  float: left;
+  width: 840px;
+  height: 357px;
+  margin: 0 0 0 -17px;
+  padding: 20px 0 0 6px;
+  background: url(bg_pricing.jpg) no-repeat;
+
+}
+
+#pricing div.pricing{
+  float: left;
+  width: 153px;
+  padding: 0 7px;
+  text-align: center;
+}
+
+#pricing div.first{
+  width: 138px;
+  /*opacity: .5;*/
+}
+
+#pricing div.featured{
+  margin-top: -22px;
+  padding: 0 20px;
+  width: 163px;
+}
+
+#pricing div.third{
+  width: 140px;
+}
+
+#pricing div.last{
+  width: 144px;
+}
+
+#pricing div.pricing h3{
+  color: #4e5a64;
+  margin-bottom: 10px;
+  font-size: 25px;
+  text-shadow: -1px -1px .1em #bebfbf;
+  line-height: 1;
+}
+
+#pricing div.pricing.featured h3{
+  color: #fffffe;
+  font-size: 35px;
+  text-shadow: -1px -1px .1em #739097;
+}
+
+#pricing div.pricing h4{
+  margin-bottom: 11px;
+  color: #111922;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+#pricing div.pricing.featured h4{
+  font-size: 20px;
+}
+
+#pricing div.pricing p{
+  margin: 0;
+  padding-bottom: 11px;
+  border-bottom: 1px solid #c5c5c5;
+  color: #424c56;
+  font-size: 16px;
+  line-height: 1.1875;
+}
+
+#pricing div.pricing.featured p{
+  border-bottom-color: #455760;
+  color: #ececec;
+  font-size: 18px;
+}
+
+#pricing div.pricing ul.options{
+  margin: 0 0 12px;
+  padding-top: 12px;
+  border-top: 1px solid #f3f3f3;
+  padding-left: 0;
+}
+
+#pricing div.pricing.featured ul.options{
+  border-top-color: #839da7;
+}
+
+  #pricing div.pricing ul.options li{
+  color: #111922;
+  font-size: 15px;
+  list-style: none;
+  line-height: 1.3333;
+}
+
+  #pricing div.pricing.featured ul.options li{
+  color: #f1f3f5;
+  font-size: 18px;
+}
+
+  #pricing div.pricing ul.options li span{
+  color: #81220c;
+  font-weight: bold;
+}
+
+  #pricing div.pricing.featured ul.options li span{
+  color: #ecab24;
+}
+
+  #pricing div.pricing p.button{
+  border: 0;
+  padding: 0;
+}
+
+  #pricing div.pricing p.button a,
+  #pricing div.pricing p.button span{
+  display: block;
+  width: 84px;
+  height: 27px;
+  margin: 0 auto;
+  background: url(btn_sign-up.png) no-repeat;
+  text-indent: -9999px;
+}
+  #pricing div.pricing p.button a:hover{
+  background-position: left bottom;
+}
+
+
+
+
+
+.content-box-blue{
+  background-color: #154763;
+  border: 0.5px solid #afcde3;
+  height: 25px;
+;
+  padding: 60px;
+  
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+#footer {
+background-color: #1F475F;
+color: grey;
+font-size: 10px;
+text-align: center;
+
+}
+
+
+
+
+.fondofooter {
+   
+    width: 100%; 
+    height: 50px;
+text-align: center;
+
+}
